@@ -1,0 +1,42 @@
+!!python/unicode 'args': {!!python/unicode 'n': 1000}
+!!python/unicode 'compile': {!!python/unicode 'c': !!python/unicode '-lm', !!python/unicode 'cpp': !!python/unicode '-lm',
+  !!python/unicode 'java': !!python/unicode '', !!python/unicode 'pas': !!python/unicode '',
+  !!python/unicode 'py': !!python/unicode ''}
+!!python/unicode 'data':
+- args: ['$\le 10$', '$= n - 1$', '$\le 10$', '$= 1$', '$\le 10$', '1, 2']
+  cases: [1]
+- args: ['$\le 10$', '$= n - 1$', '$\le 10$', '$\le 10$', '$\le 10$', '1, 2']
+  cases: [2, 3, 4]
+- args: ['$= 10$', '$= n$', '$\le 10$', '$\le 10$', '$\le 10$', '2']
+  cases: [5]
+- args: ['$= 15$', '$= n$', '$\le 10$', '$\le 20$', '$\le 10$', '2']
+  cases: [6]
+- args: ['$= 20$', '$= n$', '$\le 10$', '$\le 20$', '$\le 10$', '2']
+  cases: [7]
+- args: ['$\le 100$', '$= n - 1$', '$\le 10^3$', '$\le 50$', '$\le 100$', '1, 3']
+  cases: [8, 9, 10]
+- args: ['$\le 40$', '$\le 400$', '$\le 10^3$', '$\le 50$', '$\le 100$', '3']
+  cases: [11, 12]
+- args: ['$\le 60$', '$\le 600$', '$\le 10^3$', '$\le 50$', '$\le 10^3$', '']
+  cases: [13, 14]
+- args: ['$\le 80$', '$\le 800$', '$\le 10^3$', '$\le 50$', '$\le 10^3$', '']
+  cases: [15]
+- args: ['$\le 80$', '$\le 800$', '$\le 10^5$', '$\le 10^3$', '$\le 10^5$', '']
+  cases: [16]
+- args: ['$\le 90$', '$\le 900$', '$\le 10^5$', '$\le 10^3$', '$\le 10^5$', '']
+  cases: [17, 18]
+- args: ['$\le 100$', '$\le 1000$', '$\le 10^5$', '$\le 10^3$', '$\le 10^5$', '']
+  cases: [19]
+- args: ['$\le 100$', '$\le 1000$', '$\le 10^5$', '$\le 10^5$', '$\le 10^5$', '']
+  cases: [20]
+!!python/unicode 'folder': !!python/unicode 'problem'
+!!python/unicode 'memory limit': !!python/unicode '512 MB'
+!!python/unicode 'name': trip
+!!python/unicode 'partial score': false
+!!python/unicode 'pre': []
+!!python/unicode 'samples': []
+!!python/unicode 'time limit': 1.0
+!!python/unicode 'title': {!!python/unicode 'zh-cn': 旅游路线}
+!!python/unicode 'type': !!python/unicode 'program'
+!!python/unicode 'users': {}
+!!python/unicode 'version': 2
