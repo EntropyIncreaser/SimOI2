@@ -2,7 +2,39 @@
 !!python/unicode 'compile': {!!python/unicode 'c': !!python/unicode '-lm',
   !!python/unicode 'cpp': !!python/unicode '-lm', !!python/unicode 'java': !!python/unicode '',
   !!python/unicode 'pas': !!python/unicode '', !!python/unicode 'py': !!python/unicode ''}
-!!python/unicode 'data': []
+!!python/unicode 'data':
+- cases: [1, 2]
+  args: [20, 1, '']
+- cases: [3, 4]
+  args: [1000000000, 1, 'Y']
+- cases: [5, 6]
+  args: [1000000, 1, '']
+- cases: [7, 8]
+  args: [1000000, 1000, '']
+- cases: [9]
+  args: [1000000000000, 1000, 'Y']
+- cases: [10]
+  args: [1000000000000, 1000, '']
+- cases: [11]
+  args: [1000000000, 5000, 'Y']
+- cases: [12]
+  args: [1000000000000, 10000, '']
+- cases: [13]
+  args: [1000000000, 50000, '']
+- cases: [14]
+  args: [1000000000, 100000, '']
+- cases: [15]
+  args: [1000000000, 300000, '']
+- cases: [16]
+  args: [1000000000, 300000, 'Y']
+- cases: [17]
+  args: [1000000000000, 10000, '']
+- cases: [18]
+  args: [1000000000000, 50000, '']
+- cases: [19]
+  args: [1000000000000, 100000, '']
+- cases: [20]
+  args: [1000000000000, 300000, '']
 !!python/unicode 'folder': !!python/unicode 'problem'
 !!python/unicode 'memory limit': !!python/unicode '256 MB'
 !!python/unicode 'name': game
