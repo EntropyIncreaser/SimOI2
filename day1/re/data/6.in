@@ -1,0 +1,84 @@
+2
+35 100 95
+F a 8 10
+F b 60 62
+a[a+b]=1
+F c 20 n
+F d 81 n
+F e 70 n
+F f n n
+a[f-e]=1
+E
+E
+E
+E
+E
+E
+F a 76 n
+F b 34 n
+F c 16 n
+F d 2 n
+F e 5 n
+F f 87 n
+F g 8 n
+F h 1 1
+a[g+h]=1
+F i n 96
+a[i+h]=1
+a[g-h]=1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+46 100 10
+F a 1 n
+F b 7 n
+F c n n
+a[c-b]=1
+F d 79 n
+F e 20 n
+F f 99 7
+F g 68 n
+F h 74 n
+F i 24 n
+a[i+h+g]=1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+F a 1 n
+F b 1 n
+F c 1 60
+F d n 10
+F e 1 n
+a[a+b+c+d+e]=1
+E
+E
+E
+E
+E
+F a 1 n
+F b 2 n
+F c 20 39
+F d 2 n
+F e 2 n
+F f 2 50
+F g 2 n
+a[c-d]=1
+E
+E
+E
+E
+E
+E
+E

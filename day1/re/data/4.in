@@ -1,0 +1,143 @@
+3
+49 101 100
+F a 88 100
+F b 29 n
+a[a]=1
+E
+E
+F a 86 90
+a[a]=1
+E
+F a 14 15
+a[a]=1
+F b 27 n
+a[b]=1
+F c 69 n
+a[c]=1
+F d 40 64
+a[d]=1
+F e 61 87
+a[e]=1
+F f 6 n
+a[f]=1
+F g 13 n
+a[g]=1
+F h 72 n
+a[h]=1
+F i 23 n
+a[i]=1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+F a 66 n
+F b 29 91
+F c 51 n
+F d 37 n
+a[c]=1
+F e 29 77
+F f 28 69
+a[f]=1
+E
+E
+E
+E
+E
+E
+50 100 50
+F a 84 85
+F b 5 n
+a[a]=1
+F c 81 n
+a[c]=1
+F d 28 n
+F e 63 95
+F f 64 n
+F g 24 70
+F h 47 n
+F i 3 78
+a[i]=1
+a[h]=1
+F j 56 n
+F k 36 n
+F l 49 n
+F m 49 n
+F o 89 92
+F p 34 n
+a[p]=1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+F a 90 n
+F b 1 n
+F c 9 n
+F d 53 86
+F e 75 n
+F f 8 n
+F g 42 n
+a[f]=1
+E
+E
+E
+E
+E
+E
+E
+40 50 45
+F a 63 n
+F b 53 69
+a[b]=1
+F c 71 n
+F d 62 86
+a[d]=1
+a[c]=1
+F e 4 n
+F f 44 n
+F g 32 83
+F h 58 92
+F i 29 n
+a[i]=1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+F a 77 96
+F b 89 n
+F c 24 n
+a[a]=1
+a[b]=1
+a[c]=1
+E
+E
+E
+F a 64 90
+F b 45 65
+F c 17 n
+a[a]=1
+a[b]=1
+a[c]=1
+E
+E
+E

@@ -1,6 +1,7 @@
 args: {n: 1000}
 compile: {c: -lm, cpp: -lm, java: '', pas: '', py: ''}
-data: []
+data:
+- cases: [1]
 folder: problem
 memory limit: 512 MB
 name: plague

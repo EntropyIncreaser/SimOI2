@@ -1,0 +1,31 @@
+3
+11 105 100
+F a 67 n
+F b 20 n
+F c 36 n
+F d 32 n
+F e 44 53
+a[d]=1
+E
+E
+E
+E
+E
+9 90 90
+F a 34 90
+F b 79 n
+F c 81 88
+F d 37 n
+a[d]=1
+E
+E
+E
+E
+7 10 40
+F a 44 n
+F b 11 n
+F c 26 38
+a[b]=1
+E
+E
+E

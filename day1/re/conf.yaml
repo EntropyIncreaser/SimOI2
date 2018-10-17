@@ -1,0 +1,17 @@
+args: {}
+compile: {c: -lm, cpp: -lm, java: '', pas: '', py: ''}
+data:
+- cases: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  args: []
+folder: problem
+memory limit: 256 MB
+name: re
+partial score: false
+pre: []
+samples: []
+time limit: 1.0
+title: {zh-cn: 数组超界}
+type: program
+users:
+  std: {std/re.cpp: code/std.cpp}
+version: 2
